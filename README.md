@@ -6,9 +6,6 @@
 - 밑바닥부터 시작하는 딥러닝 2
 - 김기현의 자연어 처리 딥러닝 캠프 파이토치편
 
-## Book
-- 밑바닥부터 시작하는 딥러닝 2
-
 ## Paper
  - Distributed Representations of Words and Phrases and their Compositionality (2020.07)
 
