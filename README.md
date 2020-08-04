@@ -35,5 +35,7 @@
     - 참고링크
         - [KoBert colab](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
         - [Bert colab](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP#scrollTo=DbsNMA8Idc3K)
+- 05 torchtext tutorial (2020.08)
+
 
 ## Link
