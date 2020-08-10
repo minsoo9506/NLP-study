@@ -7,7 +7,7 @@
 - 김기현의 자연어 처리 딥러닝 캠프 파이토치편
 
 ## Paper
- - Distributed Representations of Words and Phrases and their Compositionality (2020.07)
+- Distributed Representations of Words and Phrases and their Compositionality (read 2020.07)
 
 ## Competition
 
@@ -36,6 +36,9 @@
         - [KoBert colab](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
         - [Bert colab](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP#scrollTo=DbsNMA8Idc3K)
 - 05 torchtext tutorial (2020.08)
+- 06 image captioning (2020.08)
+    - 참고링크
+        - [Aladdin Persson](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/image_captioning)
 
 
 ## Link
