@@ -13,6 +13,11 @@
   - 05 cnn w MNIST
   - 06 transfer learning cnn
   - 07 rnn w MINST
+- [NLP basic](/NLP%20basic)
+  - 00 preprocessing, torchtext
+  - 01 word2vec
+  - 02 text classification (cnn, fasttext)
+- CS224n
 
 ## Project, 실습
 - 00 국민청원데이터 실습

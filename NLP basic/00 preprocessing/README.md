@@ -1,0 +1,4 @@
+- regex를 이용하여 전처리
+- tokenization
+- 서브워드 분절(생략)
+- detokenization
