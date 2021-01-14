@@ -36,7 +36,7 @@
 - 네이버 영화 댓글 감정 분석 
     - 참고링크 : [KoBert colab](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb) , [Bert colab](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP#scrollTo=DbsNMA8Idc3K)
 
-## Machine translation
+## Machine Translation
 - Seq2Seq, Transformer 구현
     - 참고링크 : [Aladdin Persson Youtube](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
 - 한국어-영어 번역 Seq2Seq, Transformer
@@ -49,7 +49,7 @@
 
 ## Text Summarization
 
-## etc 
+## Etc 
 - image captioning 
     - 참고링크 : [Aladdin Persson Youtube](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/image_captioning)
 
