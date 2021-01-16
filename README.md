@@ -56,3 +56,17 @@
 # [ Competition ]
 
 # [ Reference Link ]
+- [KoGPT2-fine tuning](https://github.com/gyunggyung/KoGPT2-FineTuning)
+- [Beomi/KcBERT](https://github.com/Beomi/KcBERT)
+- [CMU NLP 강의](http://demo.clab.cs.cmu.edu/NLP/)
+- [AdapterHub Documentation](https://docs.adapterhub.ml/index.html)
+- [Allennlp](https://github.com/allenai/allennlp)
+- [kangpilsung/text analytics](https://github.com/pilsung-kang/Text-Analytics)
+- [sk planet Bert 강의](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
+- [The super duper NLP repo](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- [kss : korean sentence splitter](https://github.com/hyunwoongko/kss)
+- [SKT-AI/KoBART](https://github.com/SKT-AI/KoBART)
+- [skt KoBART를 transformers로](https://github.com/hyunwoongko/kobart-transformers)
+- [Korpora](https://github.com/ko-nlp/Korpora)
+- [한국어 악성댓글 데이터셋](https://github.com/ZIZUN/korean-malicious-comments-dataset)
+- [박찬준님의 다양한 강의노트](https://github.com/Parkchanjun)
