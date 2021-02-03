@@ -3,3 +3,4 @@
 .tsv
 .csv
 .txt
+__pycache__
