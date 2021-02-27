@@ -3,7 +3,6 @@
 - 고려대학교 강필성 교수님 Unstructured Data Analysis (Graduate)
 - 밑바닥부터 시작하는 딥러닝 2
 - 김기현의 자연어 처리 딥러닝 캠프 파이토치편, 패스트캠퍼스 강의
-- paper (check my OWOP repository)
 
 # NLP tutorial
 - [Deep Learning Basic](/deep%20learning%20basic)
@@ -44,6 +43,26 @@
 ## Etc 
 - image captioning 
     - `참고링크` : [Aladdin Persson Youtube](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/image_captioning)
+
+# Paper Read
+- Efficient Estimation of Word Representations in Vector Space
+  - [`Paper Link`](https://arxiv.org/abs/1301.3781) | `My Summary` | [`My Code`](./Paper/My%20Code)
+  - `Key Word` : word2vec
+- Distributed Representations of Words and Phrases and their Compositionality (NIPS 2013)
+  - [`Paper Link`](https://papers.nips.cc/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html) | `My Summary` | `My Code`
+  - `Key Word` : word2vec, negative sampling
+- Convolutional Neural Networks for Sentence Classification (EMNLP 2014)
+  - [`Paper Link`](https://www.aclweb.org/anthology/D14-1181/) | `My Summary` | [`My Code`](./Paper/My%20Code)
+  - `Key Word` : cnn, text classification
+- Sequence to Sequence Learning with Neural Networks (2014)
+  - [`Paper Link`](https://arxiv.org/abs/1409.3215) | `My Summary` | `My Code`
+  - `Key Word` : seq2seq
+- Attention is All You Need (NIPS 2017)
+  - [`Paper Link`](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | `My Summary` | `My Code`
+  - `Key Word` : transformer, self-attention, no more rnn
+- Self-Supervised Learning for Contextualized Extractive Summarization (arXiv 2019)
+  - [`Paper link`](https://arxiv.org/abs/1906.04466) | `My Summary` | `My Code`
+  - `Key Word` : extractive summarization, self-supervised
 
 # Reference Link
 - [KoGPT2-fine tuning](https://github.com/gyunggyung/KoGPT2-FineTuning)
