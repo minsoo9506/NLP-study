@@ -1,6 +1,9 @@
 .ipynb_checkpoints
-.vscode
-.tsv
-.csv
-.txt
+*.vscode
+*.tsv
+*.csv
+*.json
+*.txt
 __pycache__
+data
+*.pt
