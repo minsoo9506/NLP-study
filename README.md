@@ -18,6 +18,7 @@
 
 - 2022년에 하고 있는 실습 프로젝트, 논문 구현
 
+<details>
 <summary>huggingface text classification</summary>
 
 - pytorch, pytorch lighting, huggingface
