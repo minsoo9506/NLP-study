@@ -18,6 +18,12 @@
 
 - 2022년에 하고 있는 실습 프로젝트, 논문 구현
 
+<summary>huggingface text classification</summary>
+
+- pytorch, pytorch lighting, huggingface
+- [code](https://github.com/minsoo9506/huggingface-text-classification)
+</details>
+
 # Project 2020
 
 - 2020년에 했던 실습 프로젝트, 논문 구현
@@ -120,6 +126,9 @@
 - Self-Supervised Learning for Contextualized Extractive Summarization (arXiv 2019)
   - [`Paper link`](https://arxiv.org/abs/1906.04466) | `My Summary` | `My Code`
   - `Key Word` : extractive summarization, self-supervised
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018)
+  - [`Paper Link`](https://arxiv.org/abs/1810.04805) | `My Summary` | `My Code`
+  - `Key Word` : transformer, bert
 
 # Reference
 
@@ -128,6 +137,7 @@
 - 밑바닥부터 시작하는 딥러닝 2
 - 김기현의 자연어 처리 딥러닝 캠프 파이토치편
 - 한국어 임베딩
+- BERT와 GPT로 배우는 자연어 처리
 - [KoGPT2-fine tuning](https://github.com/gyunggyung/KoGPT2-FineTuning)
 - [Beomi/KcBERT](https://github.com/Beomi/KcBERT)
 - [CMU NLP 강의](http://demo.clab.cs.cmu.edu/NLP/)
